@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=multi_capacitive_touch.stp
+Dependencies=
+[Options]
+ActiveProject=multi_capacitive_touch
+ActiveConfig=Debug
+AddSortedElements=1

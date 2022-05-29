@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=pwm_gp.stp
+Dependencies=
+[Options]
+ActiveProject=pwm_gp
+ActiveConfig=Debug
+AddSortedElements=1

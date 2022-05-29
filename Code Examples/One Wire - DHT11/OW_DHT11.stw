@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=ow_dht11.stp
+Dependencies=
+[Options]
+ActiveProject=ow_dht11
+ActiveConfig=Debug
+AddSortedElements=1

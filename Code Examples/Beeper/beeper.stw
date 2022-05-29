@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=beeper.stp
+Dependencies=
+[Options]
+ActiveProject=beeper
+ActiveConfig=Debug
+AddSortedElements=1

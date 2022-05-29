@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=clk_sys.stp
+Dependencies=
+[Options]
+ActiveProject=clk_sys
+ActiveConfig=Debug
+AddSortedElements=1

@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=adc_isr.stp
+Dependencies=
+[Options]
+ActiveProject=adc_isr
+ActiveConfig=Debug
+AddSortedElements=1

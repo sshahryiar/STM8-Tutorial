@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=three_wire_lcd.stp
+Dependencies=
+[Options]
+ActiveProject=three_wire_lcd
+ActiveConfig=Debug
+AddSortedElements=1

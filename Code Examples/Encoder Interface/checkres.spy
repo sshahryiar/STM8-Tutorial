@@ -1,0 +1,10 @@
+;
+; **        Welcome to ST Visual Debug SPY System               **
+; ** Copyright STMicroelectronics (c) 1999, all rights reserved **
+;  Level 1
+;  Date  11/18/17
+;  Time  15:51:25
+;
+<.\confmenu.cpp:170-15:51:25> 
+Error: resource handle has not been restored in .\mainfrm.cpp:3205
+<.\mainfrm.cpp:3491-16:13:03> Open file: C:\Users\SShahryiar\Desktop\STM8S Codes 2nd Part\One Pulse Mode\OPM.stw
